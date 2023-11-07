@@ -1,0 +1,12 @@
+Best fitness in generation 52: 4.699999999999999
+{'SLA100A': {'facilitator': 'Shaw', 'room': 'Loft 310', 'time': '11 AM'},
+ 'SLA100B': {'facilitator': 'Lock', 'room': 'Loft 310', 'time': '1 PM'},
+ 'SLA191A': {'facilitator': 'Uther', 'room': 'Beach 201', 'time': '11 AM'},
+ 'SLA191B': {'facilitator': 'Banks', 'room': 'Beach 201', 'time': '1 PM'},
+ 'SLA201': {'facilitator': 'Richards', 'room': 'Loft 206', 'time': '11 AM'},
+ 'SLA291': {'facilitator': 'Zeldin', 'room': 'Beach 201', 'time': '3 PM'},
+ 'SLA303': {'facilitator': 'Numen', 'room': 'Loft 206', 'time': '2 PM'},
+ 'SLA304': {'facilitator': 'Glen', 'room': 'Slater 003', 'time': '1 PM'},
+ 'SLA394': {'facilitator': 'Tyler', 'room': 'Loft 206', 'time': '10 AM'},
+ 'SLA449': {'facilitator': 'Singer', 'room': 'Beach 301', 'time': '2 PM'},
+ 'SLA451': {'facilitator': 'Tyler', 'room': 'Roman 201', 'time': '1 PM'}}
